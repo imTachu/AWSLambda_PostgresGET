@@ -1,4 +1,4 @@
-console.log('Loading S2 Function');
+console.log('PostgreSQL GET Function');
 
 var pg = require("pg");
 
